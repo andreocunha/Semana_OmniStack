@@ -58,4 +58,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para 
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com ♥ por André Oliveira Cunha :wave: [Linkedin](https://www.linkedin.com/in/andr%C3%A9-oliveira-cunha-b26b3a156/)
