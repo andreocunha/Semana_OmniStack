@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="DevRadar" title="#delicinha" src=".github/bethehero.svg" width="200px" />
+    <img alt="DevRadar" title="#DevRadar" src=".github/bethehero.svg" width="200px" />
 </h1>
 
 <h4 align="center">
@@ -54,7 +54,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 ---
 
